@@ -2,5 +2,6 @@
  
 int main() {
     int n = 5;
-    printf("%c%c", ' '*5, '#'*5);
+    
+    printf("%s%s", ' '*5, '#'*5);
 }
